@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/KTM_TQN/static/css/main.947f12a4.css",
+    "main.js": "/KTM_TQN/static/js/main.76bef26d.js",
+    "index.html": "/KTM_TQN/index.html",
+    "main.947f12a4.css.map": "/KTM_TQN/static/css/main.947f12a4.css.map",
+    "main.76bef26d.js.map": "/KTM_TQN/static/js/main.76bef26d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.947f12a4.css",
+    "static/js/main.76bef26d.js"
+  ]
+}
